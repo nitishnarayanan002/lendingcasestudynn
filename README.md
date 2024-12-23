@@ -1,20 +1,23 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending company Analysis
+> A consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+
+If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
+
+If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* Excel sheet provides the data of loan 
+* Python files contains all the Analysis
+* Presentation shows the overall Analysis from the data
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Data cleaning is done as the excel sheet contains 111 columns 
+- Univariate and Bivariate Analysis is done on the data
+- Finding out which category can be a a business loss or financial loss for the company based on several factors
+  
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@nitishnarayanan002 and @saloni]- feel free to contact us!
 
 
 <!-- Optional -->
