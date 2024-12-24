@@ -7,8 +7,7 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 
 ## Table of Contents
-* Excel sheet provides the data of loan 
-* Python files contains all the Analysis
+* Python file which contains all the Analysis
 * Presentation shows the overall Analysis from the data
 
 <!-- You can include any other section that is pertinent to your problem -->
