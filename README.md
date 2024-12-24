@@ -37,7 +37,7 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 
 ## Contact
-Created by [@nitishnarayanan002 and @saloni]- feel free to contact us!
+Created by [@nitishnarayanan002 and @saloni454]- feel free to contact us!
 
 
 <!-- Optional -->
